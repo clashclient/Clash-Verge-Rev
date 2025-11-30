@@ -1,6 +1,10 @@
 # Clash Verge Rev 官网下载资源分享
 
-
+<br>
+<div align="center">
+  <img width="150" height="150" alt="Clash-Verge" src="https://github.com/user-attachments/assets/f75a0e87-6a9a-4ac4-b037-600a89aac953" />
+</div>
+<br>
 
 ## :memo: Clash Verge Rev 节点资源
 
